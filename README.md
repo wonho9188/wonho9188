@@ -7,24 +7,31 @@
 ## 🎓 Education
 - 상명대학교 천안캠퍼스 산업디자인과 졸업 (GPA: 3.76 / 4.5)
 
+## 🔗 Contact
+- Email: wonho9188@naver.com
+- Phone: 010-9633-6788
+- Web Portfolio: [Web Portfolio](https://wonho9188.github.io/portfolio)
+- Notion Portfolio : [Notion Portfolio](https://www.notion.so/WONHO-Wanna-Be-229483ba22f88015b391db22d64e5b02)
+- PPT Portfolio : [PPT Portfolio](https://docs.google.com/presentation/d/1E4aBUJIHhEJzeG0_lcu_MrUWmdghdf44whofGV5CPAk/edit?slide=id.p#slide=id.p)
+
 
 ## 🛠️ Tech Stack
-**🤖 Robot SW**  
+**Robot SW**  
 Python · C++ · ROS2 · SLAM & Navigation · OpenCV · PyQt · MySQL · Matplotlib  
 
-**🌐 Web**  
+**Web**  
 HTML · CSS · JavaScript · TypeScript · React · Chart.js · Ag-Grid  
 
-**🎨 2D / 3D Design**  
+**2D / 3D Design**  
 Figma · Illustrator · Photoshop · ClipStudio · Blender 3D  
 
-**🤝 Communication**  
+**Communication**  
 Git · Jira · Confluence
 
 
 ## 📌 Recent Activities
 - 에드인에듀 ROS2 국비교육 과정 (25.02 ~ 24.08)
-- 22.07: ROS2 프로젝트 
+- 22.07: ROS2 프로젝트 - KDT 훈련과정 최우수상
 - 22.06: DL 프로젝트
 - 22.05: IoT 프로젝트
 - 22.04: EDA 프로젝트
@@ -43,8 +50,5 @@ Git · Jira · Confluence
   학생 인턴 (웹 디자인 / 웹 퍼블리싱)
 
 
-## 🔗 Contact
-- 📧 Email: wonho9188@naver.com
-- 📱 Phone: 010-9633-6788
-- 🌐 Portfolio: [Web Portfolio](https://wonho9188.github.io/portfolio)
+
   
