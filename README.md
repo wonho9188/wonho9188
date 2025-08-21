@@ -17,16 +17,16 @@
 
 ## 🛠️ Tech Stack
 **Robot SW**  
-Python · C++ · ROS2 · SLAM & Navigation · OpenCV · PyQt · MySQL · Matplotlib  
+- Python · C++ · ROS2 · SLAM & Navigation · OpenCV · PyQt · MySQL · Matplotlib  
 
 **Web**  
-HTML · CSS · JavaScript · TypeScript · React · Chart.js · Ag-Grid  
+- HTML · CSS · JavaScript · TypeScript · React · Chart.js · Ag-Grid  
 
 **2D / 3D Design**   
-Figma · Illustrator · Photoshop · ClipStudio · Blender 3D  
+- Figma · Illustrator · Photoshop · ClipStudio · Blender 3D  
 
 **Communication**  
-Git · Jira · Confluence
+- Git · Jira · Confluence
 
 
 ## 📌 Recent Activities
