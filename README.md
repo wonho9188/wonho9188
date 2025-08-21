@@ -30,15 +30,19 @@ Git · Jira · Confluence
 
 
 ## 📌 Recent Activities
-- 에드인에듀 ROS2 국비교육 과정 (25.02 ~ 24.08)
-- 22.07: ROS2 프로젝트 - KDT 훈련과정 최우수상
-  ROS2 시뮬레이션 세팅 / 3D 모델링 / 하드웨어 제작 / UI 디자인 / C++Qt
-- 22.06: DL 프로젝트
-  Json 스키마 / DB 세팅 / UI 디자인 / PyQt
-- 22.05: IoT 프로젝트
-  Jira 인력 관리(팀장) / Confluence 문서 설계(User Requirements, System Requirements, Architecture, ERD) / 발표 자료 제작
-- 22.04: EDA 프로젝트
-  프로젝트 컨셉 기획 / 데이터 수집 웹 크롤링(Selenium, Beautiful Soap) / 데이터 분석(Matplotlib, Pandas)
+#### 에드인에듀 ROS2 국비교육 과정 (25.02 ~ 24.08)
+- **25.07 | ROS2 프로젝트**  
+  ROS2 시뮬레이션 세팅 · 3D 모델링 · 하드웨어 제작 · UI 디자인 · C++/Qt  
+  → KDT 훈련과정 **최우수상 수상**
+
+- **25.06 | 딥러닝 프로젝트**  
+  Json Schema 설계 · DB 세팅 · PyQt 기반 UI 개발
+
+- **25.05 | IoT 프로젝트 (팀장)**  
+  Jira 인력 관리 · Confluence 기반 문서화 (User Req., System Req., Architecture, ERD) · 발표 자료 제작
+
+- **25.04 | EDA 프로젝트**  
+  프로젝트 컨셉 기획 · 데이터 수집 (Selenium, BeautifulSoup) · 데이터 분석 (Pandas, Matplotlib)
 
 
 ## 💼 Experience
